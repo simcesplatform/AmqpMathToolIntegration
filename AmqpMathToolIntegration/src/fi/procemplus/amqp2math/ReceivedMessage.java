@@ -3,7 +3,7 @@
 // MIT license
 // Please make sure to read and understand the files README.md and LICENSE in the root of the repository.
 // 
-// This file was prepared in the research project ProCemPlus.
+// This file was prepared in the research project ProCemPlus; https://www.senecc.fi/projects/procemplus
 // 
 // Author: Petri Kannisto, Tampere University, Finland
 // http://kannisto.org / petri.kannisto@tuni.fi

@@ -11,7 +11,7 @@
         </sealing>
     </manifest>
     <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
-        <file path="/AmqpMathToolIntegration/LICENSE.txt"/>
+        <file path="/AmqpMathToolIntegration/LICENSE"/>
         <javaElement handleIdentifier="=AmqpMathToolIntegration/src"/>
         <file path="/AmqpMathToolIntegration/.classpath"/>
         <file path="/AmqpMathToolIntegration/README.md"/>
